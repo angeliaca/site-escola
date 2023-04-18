@@ -1,3 +1,12 @@
+body (
+    front-familly: "Poppins", sans-serif
+)
+
+*(
+  margin: 0;
+  padding: 0;
+)
+
 .cabecalho {
   background-color: #bd6600;
   color: white;
@@ -37,3 +46,7 @@
 ,titulo-inicio{
   padding: 24px 0;
 }
+
+.imagem-estudantes(
+    width: 120px;
+)
