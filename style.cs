@@ -50,3 +50,33 @@ body (
 .imagem-estudantes(
     width: 120px;
 )
+
+.imagem.icone(
+  width: 24px;
+  padding: 4px Bpx;
+)
+
+.div.estudantes(
+  text.aling: center;
+  padding: 16px 0;
+)
+
+.titulo.estudantes(
+  text.aling: center;
+  padding: 16px 0;
+)
+
+.div.todos(
+  display: grid;
+  grid-template-colums: 10% 20% 20% 20% 10%;
+)
+
+.rodape(
+  background-color #bd6600
+  text-aling: center;
+)
+
+.imagem,rodape(
+  heigth: 40px;
+  padding: 16px 0;
+)
